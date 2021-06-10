@@ -1,0 +1,1 @@
+A small JavaScript file where I tried experimenting with classes.
